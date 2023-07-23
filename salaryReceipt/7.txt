@@ -1,0 +1,19 @@
+	Company name, XYZ
+	Address: Xyz, Floor4
+--------------------------------------------------------
+ Employee Id		:  7
+ Salary of 		: july-2023
+ Generated On		: 22-07-2023
+--------------------------------------------------------
+ Total Days		:  30
+ Total Present		:  10
+ Total Absent		:  20
+ Convence		:  Rs.200
+ Medical		:  Rs.0
+ pf		:  Rs.200
+ Gross Payment		:  Rs.1000000
+ Net Salary		:  Rs.333530
+-------------------------------------------------------
+This is a computer generated slip, not 
+required any signature
+
